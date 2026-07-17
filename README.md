@@ -6,5 +6,6 @@ Reports may be incomplete or contain model errors. Verify important claims again
 
 ## Summaries
 
+- [2026-07-17](summaries/2026/07/2026-07-17.md)
 - [2026-07-16](summaries/2026/07/2026-07-16.md)
 - [2026-07-15](summaries/2026/07/2026-07-15.md)
