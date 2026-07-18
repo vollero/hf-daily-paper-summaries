@@ -9,3 +9,4 @@ Reports may be incomplete or contain model errors. Verify important claims again
 - [2026-07-17](summaries/2026/07/2026-07-17.md) · [relationship graph](summaries/2026/07/2026-07-17/relationships.md)
 - [2026-07-16](summaries/2026/07/2026-07-16.md) · [relationship graph](summaries/2026/07/2026-07-16/relationships.md)
 - [2026-07-15](summaries/2026/07/2026-07-15.md) · [relationship graph](summaries/2026/07/2026-07-15/relationships.md)
+- [2026-07-14](summaries/2026/07/2026-07-14.md) · [relationship graph](summaries/2026/07/2026-07-14/relationships.md)
