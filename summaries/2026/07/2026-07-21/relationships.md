@@ -95,3 +95,7 @@ _The relationship stage failed; no validated edges are available for this sectio
 - [2607.16900](2607.16900.md)
 - [2607.13365](2607.13365.md)
 - [2607.18213](2607.18213.md)
+
+---
+
+[Support these research summaries on Buy Me a Coffee](https://buymeacoffee.com/vollero)

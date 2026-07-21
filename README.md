@@ -4,6 +4,8 @@ Evidence-oriented daily research digests, paper relationship graphs, and per-pap
 
 Reports may be incomplete or contain model errors. Verify important claims against the linked papers. No archived paper files, prompts, enrichment artifacts, logs, manifests, or databases are published here.
 
+[Support these research summaries on Buy Me a Coffee](https://buymeacoffee.com/vollero)
+
 ## Summaries
 
 - [2026-07-21](summaries/2026/07/2026-07-21.md) · [relationship graph](summaries/2026/07/2026-07-21/relationships.md)
