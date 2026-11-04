@@ -8,6 +8,7 @@ Reports may be incomplete or contain model errors. Verify important claims again
 
 ## Summaries
 
+- [2026-11-03](summaries/2026/11/2026-11-03.md) · [relationship graph](summaries/2026/11/2026-11-03/relationships.md)
 - [2026-11-02](summaries/2026/11/2026-11-02.md) · [relationship graph](summaries/2026/11/2026-11-02/relationships.md)
 - [2026-10-30](summaries/2026/10/2026-10-30.md) · [relationship graph](summaries/2026/10/2026-10-30/relationships.md)
 - [2026-10-29](summaries/2026/10/2026-10-29.md) · [relationship graph](summaries/2026/10/2026-10-29/relationships.md)
